@@ -27,7 +27,7 @@
   <entry>
     <title>jdk7-HashMap循环引用</title>
     <url>/2019/12/03/jdk7-HashMap%E5%BE%AA%E7%8E%AF%E5%BC%95%E7%94%A8/</url>
-    <content><![CDATA[<p><a href="https://github.com/kimutaku001/images/blob/master/%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96.png?raw=true">https://github.com/kimutaku001/images/blob/master/%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96.png?raw=true</a></p>
+    <content><![CDATA[<p><img src="https://github.com/kimutaku001/images/blob/master/%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96.png?raw=true" alt="循环引用"></p>
 ]]></content>
       <categories>
         <category>java基础</category>
